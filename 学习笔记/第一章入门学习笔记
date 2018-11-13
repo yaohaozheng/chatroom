@@ -1,0 +1,1 @@
+１．在第一章入门1.5启动并运行起来中，把articles资源添加到config/routes.rb文件中后，执行bin/rail routes报错，那就按提示执行rake routes（显示该工程所有route）就成，另外resource:articles必须置顶，否则会报错。
